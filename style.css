@@ -81,6 +81,7 @@ header a:hover, footer a:hover {
   background: url("images/back_ground.png");
   background-position: center 30%;
   background-size: cover;
+  background-attachment:fixed;
 }
 .homepage img{
   width: 35%;
