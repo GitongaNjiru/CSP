@@ -28,7 +28,7 @@ header {
 .navbar {
   display: flex;
   padding: 0 10px;
-  max-width: 1200px;
+  max-width: 720px;
   width: 100%;
   align-items: center;
   justify-content: space-between;
